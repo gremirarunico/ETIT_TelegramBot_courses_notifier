@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 
 import telethon
-import argparse
 import json
-import os
-import random
-import time
 import asyncio
 import datetime
 
