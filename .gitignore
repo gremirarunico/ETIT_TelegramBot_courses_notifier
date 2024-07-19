@@ -1,3 +1,9 @@
+# Super secret data
+config.json
+telegram_data.json
+courses_data.json
+bot.session
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
